@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Appcenter-Config.plist
+   helloAnimations
+
+   Created by Mykhail Tkachenko on 22.02.2022.
+   Copyright (c) 2022 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+  <key>AppSecret</key>
+  <string>f6bce4d1-dfa7-40ba-a4f1-bb7055250fb3</string>
+</dict>
+</plist>
